@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+UALF_dataframe_parser.egg-info/PKG-INFO
+UALF_dataframe_parser.egg-info/SOURCES.txt
+UALF_dataframe_parser.egg-info/dependency_links.txt
+UALF_dataframe_parser.egg-info/requires.txt
+UALF_dataframe_parser.egg-info/top_level.txt
+src/__init__.py
+src/main.py
+src/Parser/__init__.py
+src/Parser/parser.py

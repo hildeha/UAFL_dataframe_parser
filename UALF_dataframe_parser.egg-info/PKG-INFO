@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: UAFL-dataframe-parser
+Name: UALF-dataframe-parser
 Version: 0.0.1
 Summary: Python class that allows for a python requests response received in the universal ascii lightning format to be parsed to a pandas dataframe object.
 Home-page: https://github.com/hildeha/UAFL_dataframe_parser

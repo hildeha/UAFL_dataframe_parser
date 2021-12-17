@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="UAFL_dataframe_parser",  # Replace with your own username
+    name="UALF_dataframe_parser",  # Replace with your own username
     version="0.0.1",
     author="Hilde Haland",
     author_email="hilde.tveit.haland@gmail.com",
