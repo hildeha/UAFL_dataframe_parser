@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="UALFdataframeParser",  # Replace with your own username
+    name="parseUALF",  # Replace with your own username
     version="0.0.1",
     author="Hilde Haland",
     author_email="hilde.tveit.haland@gmail.com",
@@ -23,6 +23,7 @@ setuptools.setup(
     install_requires=[
         "requests>=2.26.0",
         "pandas>=1.0.0",
-        "numpy>=1.0.0"
+        "numpy>=1.0.0",
+        "plotly>=5.2.1"
     ]
 )
